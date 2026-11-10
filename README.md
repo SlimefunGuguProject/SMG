@@ -4,18 +4,7 @@ SMG 是一个 Slimefun 附属插件，可以省去一些跑图寻找物品的过
 
 ## 下载
 
-**自动更新**: 汉化版构建#1及以上版本包含自动更新功能，默认开启。
-
-点击这里下载 SMG: [下载 SMG](https://builds.guizhanss.net/SlimefunGuguProject/SMG/master)
-
-<p align="center">
-  <a href="https://github.com/SlimefunGuguProject/SMG/actions/workflows/maven.yml">
-    <img src="https://github.com/SlimefunGuguProject/SMG/actions/workflows/maven.yml/badge.svg" alt="Java CI"/>
-  </a>
-  <a href="https://builds.guizhanss.net/SlimefunGuguProject/SMG/master">
-    <img src="https://builds.guizhanss.net/f/SlimefunGuguProject/SMG/master/badge.svg" alt="Build status"/>
-  </a>
-</p>
+[下载 SMG](https://resources.guizhanss.com/plugin/SMG)
 
 ## 使用
 
